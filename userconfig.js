@@ -21,12 +21,6 @@ const default_config = {
               icon_color: palette.blue,
             },
             {
-              name: "classroom",
-              url: "https://classroom.google.com/u/1/",
-              icon: "books",
-              icon_color: palette.green,
-            },
-            {
               name: "docs",
               url: "https://docs.google.com/document/u/0/",
               icon: "file-text",
@@ -66,41 +60,8 @@ const default_config = {
               icon: "brand-github",
               icon_color: palette.green,
             },
-            {
-              name: "devdocs",
-              url: "https://devdocs.io",
-              icon: "code",
-              icon_color: palette.blue,
-            },
-            {
-              name: "hacker-news",
-              url: "https://news.ycombinator.com",
-              icon: "news",
-              icon_color: palette.peach,
-            },
           ],
         },
-        {
-          name: "",
-          links: [
-            {
-              name: "leetcode",
-              url: "https://leetcode.com/u/ashish0kumar/",
-              icon: "brand-leetcode",
-              icon_color: palette.yellow,
-            },
-            {
-              name: "dsa",
-              url: "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2",
-              icon: "list-details",
-              icon_color: palette.red,
-            },
-            {
-              name: "udemy",
-              url: "https://www.udemy.com/home/my-courses/learning/",
-              icon: "certificate",
-              icon_color: palette.lavender,
-            },
           ]
         },
         {
