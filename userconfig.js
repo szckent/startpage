@@ -62,8 +62,6 @@ const default_config = {
             },
           ],
         },
-          ]
-        },
         {
           name: "",
           links: [
@@ -85,7 +83,7 @@ const default_config = {
               icon: "keyboard",
               icon_color: palette.red,
             },
-          ]
+          ],
         },
       ],
     },
